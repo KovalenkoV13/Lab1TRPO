@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello IU5!\n");
+    printf("Hello Git!\n");
     
     return 0;
 }
